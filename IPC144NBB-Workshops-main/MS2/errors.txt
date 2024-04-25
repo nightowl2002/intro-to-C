@@ -1,0 +1,4 @@
+/tmp/ccZd9Mke.o: In function `loadItems':
+PosUI.c:(.text+0x4c): multiple definition of `loadItems'
+/tmp/ccw2MIba.o:PosApp.c:(.text+0x12b): first defined here
+collect2: error: ld returned 1 exit status

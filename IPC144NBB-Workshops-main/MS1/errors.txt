@@ -1,0 +1,9 @@
+PosUI.c: In function ‘listItems’:
+PosUI.c:39:5: error: ‘for’ loop initial declarations are only allowed in C99 mode
+     for (int i = 0; i < noOfItems; i++) {
+     ^
+PosUI.c:39:5: note: use option -std=c99 or -std=gnu99 to compile your code
+PosUI.c: In function ‘inventory’:
+PosUI.c:51:5: error: ‘for’ loop initial declarations are only allowed in C99 mode
+     for (int i = 0; i < noOfItems; i++) {
+     ^

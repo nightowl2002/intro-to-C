@@ -1,0 +1,36 @@
+Script started on Mon 25 Mar 2024 02:58:38 PM EDT
+Enter number of the student records
+> > 3
+Enter 3 student records:
+Enter Student Information # 1:
+Name
+> Jimbo Jones
+Student Number
+> 123123
+Mark
+> 55.5
+Enter Student Information # 2:
+Name
+> Nelson Muntz
+Student Number
+> 234234
+Mark
+> 33.3
+Enter Student Information # 3:
+Name
+> Bart Simpson
+Student Number
+> abc
+Bad integer, try again
+> > 123abc
+Mark
+> 88.8
+Name                           student number   mark
+------------------------------+----------------+------
+Jimbo Jones                    | 123123          |   55.5
+Nelson Muntz                   | 234234          |   33.3
+Bart Simpson                   | 123             |   88.8
+------------------------------+----------------+------
+                                       Average:   59.2
+
+Script done on Mon 25 Mar 2024 02:59:24 PM EDT

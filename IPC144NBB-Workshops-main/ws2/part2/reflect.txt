@@ -1,0 +1,4 @@
+Mohamed Mohamed
+149244220
+
+I had a lot of difficulties attempting to make this workshop work. Trying to create a function that would print rectangles while going up in alphabetical order and increasing in string lengths and rows was very time consuming. Using multiple for loops seemed to be the hardest part of this workshop. Trying to place all the characters in their correct positions while keeping up with the pattern of adding an extra one got easier as I figured out how to separate the top, bottom and inside of the rectangles. In the end I figured out what I needed to do and found a way to do it like keeping the code clean and concise. This workshop helped me understand for loops and functions better.
