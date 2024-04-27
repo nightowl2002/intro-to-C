@@ -3,7 +3,7 @@ Final Project Milestone? 1
 Module: MS1
 Filename: POS.H
 Version 1.0
-Author	Mohamed Mohamed 146244220 MMOHAMED100@MYSENECA.CA
+Author	Jatin
 Revision History
 
 I have done all the coding by myself and only copied the code 
